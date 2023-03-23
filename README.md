@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=71797E&fontColor=FFFFFF&height=250&fontAlignY=40&section=header&text=Hello!%20%20I'm%20%20KyungJun&fontSize=50)
 <br/>
 ## 🐼 Intereseted in,
-- `ML Engineering (RecSys)` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/> ](https://github.com/parkkyungjun/level2_movierecommendation_recsys-level3-recsys-02)
-- `MLops` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>](https://github.com/parkkyungjun/final-project-level3-recsys-02) 
+- `Large model` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/> ](https://github.com/parkkyungjun/level2_movierecommendation_recsys-level3-recsys-02)
+- `Reinforce learning` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>](https://github.com/parkkyungjun/final-project-level3-recsys-02) 
 - `Multi-modal`
 <br/><br/>
 
