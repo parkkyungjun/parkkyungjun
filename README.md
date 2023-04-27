@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=71797E&fontColor=FFFFFF&height=250&fontAlignY=40&section=header&text=Hello!%20%20I'm%20%20KyungJun&fontSize=50)
 <br/>
 ## 🐼 Intereseted in,
-- `Reinforce learning` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>](https://github.com/parkkyungjun/final-project-level3-recsys-02) 
+- `Reinforce learning` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>](https://github.com/parkkyungjun/SnakeAI) 
 <br/><br/>
 
 [<img src="https://img.shields.io/badge/Resume-555555?style=platic&logo=notion&logoColor=white"/>](https://lying-marmoset-5ae.notion.site/12a0686067f04287ba6dab62f16d9668)
