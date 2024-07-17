@@ -2,6 +2,8 @@
 <br/>
 ## 🐼 Intereseted in,
 - `Competition` <img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>
+- I'm kaggle competition expert
+
 <br/><br/>
 
 [<img src="https://img.shields.io/badge/Resume-555555?style=platic&logo=notion&logoColor=white"/>](https://lying-marmoset-5ae.notion.site/12a0686067f04287ba6dab62f16d9668)
