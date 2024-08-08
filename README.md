@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=71797E&fontColor=FFFFFF&height=250&fontAlignY=40&section=header&text=Hello!%20%20I'm%20%20KyungJun&fontSize=50)
 <br/>
 ## 🐼 Intereseted in,
-- `Competition` <img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>
+- `Competition` [<img src="https://img.shields.io/badge/Repository-71797E?style=platic&logo=github&logoColor=white"/>](https://github.com/parkkyungjun/Competition)
 - I'm kaggle competition expert
 
 <br/><br/>
