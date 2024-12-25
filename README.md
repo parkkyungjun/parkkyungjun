@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[<img src="https://img.shields.io/badge/Resume-555555?style=platic&logo=notion&logoColor=white"/>](https://lying-marmoset-5ae.notion.site/12a0686067f04287ba6dab62f16d9668)
+<!-- [<img src="https://img.shields.io/badge/Resume-555555?style=platic&logo=notion&logoColor=white"/>](https://lying-marmoset-5ae.notion.site/12a0686067f04287ba6dab62f16d9668) -->
 
 <img src="https://img.shields.io/badge/C++-00599C?style=platic&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=platic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=platic&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=platic&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=platic&logo=postgresql&logoColor=white"/>
 
